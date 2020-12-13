@@ -13,14 +13,15 @@
   "author": "CyberPop",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Cyber-Pop/LunaBot/issues"
+    "url": "https://github.com/Cyber-Pop/Luna/issues"
   },
-  "homepage": "https://github.com/Cyber-Pop/LunaBot/blob/main/README.md",
+  "homepage": "https://github.com/Cyber-Pop/Luna/blob/main/README.md",
   "dependencies": {
     "axios": "^0.19.2",
     "eris-sharder": "^1.10.0",
     "he": "^1.2.0",
     "mongoose": "^5.9.28",
+    "express": "^4.17.1",
     "unscramble": "0.0.1-v",
     "weather-js": "^2.0.0"
   }
