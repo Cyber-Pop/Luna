@@ -1,6 +1,7 @@
 const { readdirSync } = require('fs');
 const { join } = require('path');
 const { Base } = require('eris-sharder')
+const express = require('express')
 const app = express()
 
 app.get('/', (req, res) => {
