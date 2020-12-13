@@ -1,0 +1,27 @@
+{
+  "name": "luna",
+  "version": "1.0.0",
+  "description": "A Multipurpose Discord bot made using eris-sharder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyber-Pop/Luna.git"
+  },
+  "author": "CyberPop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cyber-Pop/LunaBot/issues"
+  },
+  "homepage": "https://github.com/Cyber-Pop/LunaBot/blob/main/README.md",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "eris-sharder": "^1.10.0",
+    "he": "^1.2.0",
+    "mongoose": "^5.9.28",
+    "unscramble": "0.0.1-v",
+    "weather-js": "^2.0.0"
+  }
+}

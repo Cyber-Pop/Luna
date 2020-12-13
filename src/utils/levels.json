@@ -1,0 +1,22 @@
+{
+    "shrimp": { "emoji": "🦐" },
+    "starfish": { "emoji": "⭐" },
+    "oyster": { "emoji": "🦪" },
+    "lizard": { "emoji": "🦎" },
+    "fish": { "emoji": "🐠" },
+    "turtle": { "emoji": "🐢" },
+    "frog": { "emoji": "🐸" },
+    "lobster": { "emoji": "🦞" },
+    "crab": { "emoji": "🦀" },
+    "squid": { "emoji": "🦑" },
+    "flamingo": { "emoji": "🦩" },
+    "duck": { "emoji": "🦆" },
+    "penguin": { "emoji": "🐧" },
+    "swan": { "emoji": "🦢" },
+    "otter": { "emoji": "🦦" },
+    "octopus": { "emoji": "🐙" },
+    "crocodile": { "emoji": "🐊" },
+    "shark": { "emoji": "🦈" },
+    "whale": { "emoji": "🐳" },
+    "sea serpent": { "emoji": "🐉" }
+}
