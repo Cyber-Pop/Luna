@@ -1,6 +1,13 @@
 const { readdirSync } = require('fs');
 const { join } = require('path');
-const { Base } = require('eris-sharder');
+const { Base } = require('eris-sharder')
+const app = express()
+
+app.get('/', (req, res) => {
+  res.send('Pinged!')
+})
+
+app.listen(3000, () => console.log('Server ready'));
 
 class Luna extends Base {
     constructor(client) {
