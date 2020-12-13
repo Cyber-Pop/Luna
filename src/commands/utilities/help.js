@@ -3,6 +3,7 @@ const emojis = {
     fun: "😃",
     games: "🎲",
     moderation: "🚨",
+    Luna: "🌙"
     study: "📚",
     text: "📝",
     utilities: "🛠"
