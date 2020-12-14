@@ -14,6 +14,8 @@ Lets, get into it! First you need to download the repo, after downloading the re
 Here are the hosting methods supported by Luna:
 - Heroku 
 - Repl.it
-You'll have to setup them by yourself!
+
+### Contribution
+If you want to contribute by editing the code, please make a pull request on the public-dev branch, we'll test it and then it'll be deployed into main bot! **Please** refrain from making pull requests on the main or development branch.
 # Important! 
 If you're going to self host the bot please add some credits anywhere and also, You're not allowed to upload the self hosted bot to any botlist or something like that, you can use this bot Private or for your Community! 
